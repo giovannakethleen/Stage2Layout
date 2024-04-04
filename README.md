@@ -1,4 +1,4 @@
-<h1 align="center"> Explorer </h1> <h1 align="center"> Stage 2 - Recriando Layout Extra "site de pacotes de viagens/ destinos" </h1>
+<h1 align="center"> Explorer </h1> <h2 align="center"> Stage 2 - Recriando Layout Extra "site de pacotes de viagens/ destinos" </h2>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -33,7 +33,7 @@ Esse projeto está sob a licença MIT.
 <p align="left">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
----
----
 
-Feito por Giovanna Kethleen ♥# destino.html.css
+--- ---
+
+<p> Feito por Giovanna Kethleen ♥ </p>
