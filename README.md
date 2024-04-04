@@ -1,4 +1,5 @@
-<h1 align="center"> Explorer </h1> <h2 align="center"> Stage 2 - Recriando Layout Extra "site de pacotes de viagens/ destinos" </h2>
+<h1 align="center"> Explorer </h1> 
+<p1 align="center"> Stage 2 - Recriando Layout Extra "site de pacotes de viagens/ destinos" </p1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -25,7 +26,8 @@ O projeto 02 - Desafio 1 é uma criação de um landing page para aplicar os con
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/GVlbuOCv0EIO2yVZJ4txEZ/Explorer-(Copy)?node-id=0%3A1&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+- [Acesse o projeto finalizado, online](https://giovannakethleen.github.io/Stage2Layout/)
+- Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/GVlbuOCv0EIO2yVZJ4txEZ/Explorer-(Copy)?node-id=0%3A1&mode=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
